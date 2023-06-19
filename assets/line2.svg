@@ -1,0 +1,17 @@
+<svg style="transform: rotate(90deg);" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+ <g>
+  <title>background</title>
+  <rect fill="transparent" id="canvas_background" height="402" width="402" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <line opacity="0.3" stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_5" y2="446.690471" x2="14.409737" y1="19.722637" x1="441.553765" stroke-width="70" fill="none"/>
+  <line opacity="0.3" stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_6" y2="181.472567" x2="-118.199206" y1="-245.495267" x1="308.944822" stroke-width="70" fill="none"/>
+  <line opacity="0.3" stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_7" y2="341.25548" x2="-75.807822" y1="-85.712354" x1="351.336206" stroke-width="70" fill="none"/>
+  <line opacity="0.3" stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_8" y2="559.734163" x2="104.627298" y1="132.76633" x1="531.771326" stroke-width="70" fill="none"/>
+ </g>
+</svg>
